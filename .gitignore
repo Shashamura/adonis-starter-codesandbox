@@ -6,7 +6,8 @@ package-lock.json
 tmp
 
 # Environment variables, never commit this file
-.env
+# It has been removed for codesanbox compatibility
+# .env
 
 # The development sqlite file
 database/development.sqlite
